@@ -1,0 +1,266 @@
+{
+  "users": [
+    {
+      "id": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "name": "Abhi",
+      "email": "abhi@gmail.com",
+      "passwordHash": "$2b$10$7pK9bs0fNQZ0x1rrUYvp7ebbBDFEG9pqKGngTOvbGzu/428ov4OsG",
+      "createdAt": "2026-03-09T13:34:25.893Z",
+      "headline": "Founder building the next big thing",
+      "bio": "Tell the community what you're building and what kind of founders you want to meet.",
+      "location": "India",
+      "interests": [],
+      "skills": [],
+      "links": {
+        "linkedin": "",
+        "website": ""
+      }
+    },
+    {
+      "id": "83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "name": "Anirudh",
+      "email": "anirudh@gmail.com",
+      "passwordHash": "$2b$10$ds3Z8h/fMrH0C3henDXD1urNIt3o3AG8wob7UtGfcknEOdy9jeShu",
+      "createdAt": "2026-03-09T13:46:56.361Z",
+      "headline": "Founder building the next big thing",
+      "bio": "Tell the community what you're building and what kind of founders you want to meet.",
+      "location": "India",
+      "interests": [],
+      "skills": [],
+      "links": {
+        "linkedin": "",
+        "website": ""
+      }
+    }
+  ],
+  "ideas": [
+    {
+      "id": "2bad4f03-a92c-4e0a-b9c9-c767b4a7588f",
+      "title": "MicroSplit",
+      "description": "MicroSplit is a streamlined mobile application designed for friends, roommates, and small teams who want to manage shared expenses without the complexity of traditional accounting software.\n\nUnlike broad expense trackers, MicroSplit focuses on instant settlement. It uses a \"single-tap\" interface to capture receipts, automatically categorize costs (like groceries, utilities, or dining), and calculate exactly who owes what in real-time.",
+      "authorId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "analysis": {
+        "score": 79,
+        "verdict": "Promising with validation work",
+        "riskLevel": "Moderate",
+        "industry": "SaaS",
+        "budget": {
+          "range": "$27,000 - $65,000",
+          "breakdown": [
+            "Product build: $12,150 - $32,500",
+            "Go-to-market tests: $5,400 - $13,000",
+            "Ops and tooling: $4,050 - $9,750",
+            "Buffer for pivots: $5,400 - $9,750"
+          ]
+        },
+        "market": {
+          "industry": "SaaS",
+          "startupActivity": "0 related funding entries in the dataset",
+          "capitalSignal": "Limited funding signal in the dataset",
+          "hotspot": "No clear location hotspot"
+        },
+        "competitors": [],
+        "risks": [
+          "The revenue model is not obvious yet, which can slow investor confidence and prioritization.",
+          "Model quality, data access, and inference cost can become execution bottlenecks quickly."
+        ],
+        "initialProblems": [
+          "Finding 10-15 target users willing to give repeated feedback in the first month.",
+          "Reducing the feature set to one painful workflow instead of launching too broad.",
+          "Turning interest into a measurable activation metric such as signups, pilots, or paid trials."
+        ],
+        "advice": [
+          "Interview a narrow customer segment first and rewrite the idea around one urgent workflow.",
+          "Launch a lightweight MVP that proves demand before building automation around every edge case.",
+          "Track one traction metric weekly: qualified signups, pilot conversions, or retained active teams."
+        ],
+        "summary": "This idea has a credible market angle, but it will win only if the first user segment is extremely focused."
+      },
+      "createdAt": "2026-03-09T13:34:41.175Z"
+    },
+    {
+      "id": "09e6235a-16ce-4db5-93a4-b780b5ef2095",
+      "title": "EduSync AI",
+      "description": "EduSync AI is an advanced learning management and orchestration platform designed specifically for the blended learning era of 2026. While traditional EdTech focuses on content delivery, EduSync focuses on interoperability—connecting a student's fragmented learning data from various AI tutors, classroom apps, and digital textbooks into a single, unified \"Knowledge Graph.\"",
+      "authorId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "analysis": {
+        "score": 83,
+        "verdict": "Strong potential",
+        "riskLevel": "Moderate",
+        "industry": "EdTech",
+        "budget": {
+          "range": "$22,000 - $55,000",
+          "breakdown": [
+            "Product build: $9,900 - $27,500",
+            "Go-to-market tests: $4,400 - $11,000",
+            "Ops and tooling: $3,300 - $8,250",
+            "Buffer for pivots: $4,400 - $8,250"
+          ]
+        },
+        "market": {
+          "industry": "EdTech",
+          "startupActivity": "0 related funding entries in the dataset",
+          "capitalSignal": "Limited funding signal in the dataset",
+          "hotspot": "No clear location hotspot"
+        },
+        "competitors": [],
+        "risks": [
+          "The revenue model is not obvious yet, which can slow investor confidence and prioritization.",
+          "Model quality, data access, and inference cost can become execution bottlenecks quickly."
+        ],
+        "initialProblems": [
+          "Finding 10-15 target users willing to give repeated feedback in the first month.",
+          "Reducing the feature set to one painful workflow instead of launching too broad.",
+          "Turning interest into a measurable activation metric such as signups, pilots, or paid trials."
+        ],
+        "advice": [
+          "Interview a narrow customer segment first and rewrite the idea around one urgent workflow.",
+          "Launch a lightweight MVP that proves demand before building automation around every edge case.",
+          "Track one traction metric weekly: qualified signups, pilot conversions, or retained active teams."
+        ],
+        "summary": "This idea has a credible market angle, but it will win only if the first user segment is extremely focused."
+      },
+      "createdAt": "2026-03-09T13:35:58.303Z"
+    },
+    {
+      "id": "fbbf6b51-c899-499e-ab7c-b7cf3dd327c8",
+      "title": "SkillStreamer",
+      "description": "SkillStreamer is a \"micro-learning\" platform designed for the 2026 workforce, focusing on just-in-time skill acquisition. Instead of long, multi-week courses, it breaks down complex technical and soft skills into \"Streams\"—highly interactive, 5-to-10 minute modules that can be consumed during a commute or a lunch break.",
+      "authorId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "analysis": {
+        "score": 91,
+        "verdict": "Strong potential",
+        "riskLevel": "Moderate",
+        "industry": "EdTech",
+        "budget": {
+          "range": "$10,000 - $26,000",
+          "breakdown": [
+            "Product build: $4,500 - $13,000",
+            "Go-to-market tests: $2,000 - $5,200",
+            "Ops and tooling: $1,500 - $3,900",
+            "Buffer for pivots: $2,000 - $3,900"
+          ]
+        },
+        "market": {
+          "industry": "EdTech",
+          "startupActivity": "83 related funding entries mapped to EdTech in the dataset",
+          "capitalSignal": "$439M+ total disclosed funding across this category",
+          "hotspot": "Bangalore appears frequently for this category"
+        },
+        "competitors": [
+          {
+            "name": "Xseed Education",
+            "industry": "Technology",
+            "focus": "Education & learning Tech platform",
+            "fundingSignal": "$10M disclosed funding",
+            "similarity": 43
+          },
+          {
+            "name": "TalentEdge",
+            "industry": "Technology",
+            "focus": "Distance Education Learning Platform",
+            "fundingSignal": "$7.6M disclosed funding",
+            "similarity": 42
+          },
+          {
+            "name": "CueMath",
+            "industry": "Education",
+            "focus": "K-12 Maths Learning Courses",
+            "fundingSignal": "$4M disclosed funding",
+            "similarity": 42
+          },
+          {
+            "name": "UnaAcademy",
+            "industry": "Consumer Internet",
+            "focus": "Free Interactive education platform",
+            "fundingSignal": "$1M disclosed funding",
+            "similarity": 42
+          }
+        ],
+        "risks": [
+          "The monetization path is still vague, which makes it harder to prioritize features and unit economics.",
+          "The space already has visible players like Xseed Education, so differentiation has to be sharper than convenience alone."
+        ],
+        "initialProblems": [
+          "Finding the first 10-15 early adopters who will test the product repeatedly and give blunt feedback.",
+          "Reducing the MVP to one high-friction education and career progress workflow instead of shipping a broad feature list."
+        ],
+        "advice": [
+          "Start with a narrow segment of early adopters and position the product around one painful moment in education and career progress.",
+          "Make the first release optimize for platform simplicity rather than a long feature checklist.",
+          "Test a pricing hypothesis early so the business model is validated alongside product demand.",
+          "Differentiate clearly from Xseed Education through a niche audience, faster setup, or a stronger outcome promise."
+        ],
+        "summary": "The idea addresses education and career progress with a plausible angle, but execution quality and early user focus will decide whether it stands out."
+      },
+      "createdAt": "2026-03-09T13:46:16.439Z"
+    }
+  ],
+  "comments": [
+    {
+      "id": "13bde4fe-b1a6-41e1-a908-ec81ea9786c8",
+      "ideaId": "fbbf6b51-c899-499e-ab7c-b7cf3dd327c8",
+      "userId": "83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "text": "a good idea",
+      "createdAt": "2026-03-09T13:47:14.119Z"
+    }
+  ],
+  "connections": [
+    {
+      "id": "f8135fe0-93a0-483c-b076-632df2bc42f3",
+      "requesterId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "receiverId": "83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "status": "accepted",
+      "createdAt": "2026-03-09T14:07:32.062Z",
+      "respondedAt": "2026-03-09T14:31:12.870Z"
+    }
+  ],
+  "messages": [
+    {
+      "id": "f053c8e8-596c-4750-a284-0551c37db04c",
+      "conversationKey": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f:83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "senderId": "83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "receiverId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "text": "hey there",
+      "createdAt": "2026-03-09T14:32:56.250Z"
+    }
+  ],
+  "notifications": [
+    {
+      "id": "6d621277-79b3-4831-a207-d450afd68fdf",
+      "userId": "83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "type": "connection_request",
+      "text": "Abhi sent you a connection request.",
+      "link": "/network",
+      "read": false,
+      "createdAt": "2026-03-09T14:07:32.062Z"
+    },
+    {
+      "id": "5b5e60ad-4139-4c21-96a4-8f1be1ff5fb9",
+      "userId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "type": "connection_accepted",
+      "text": "Anirudh accepted your connection request.",
+      "link": "/messages",
+      "read": false,
+      "createdAt": "2026-03-09T14:30:44.787Z"
+    },
+    {
+      "id": "099085cf-ae82-4b28-a676-f614285cd35b",
+      "userId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "type": "connection_accepted",
+      "text": "Anirudh accepted your connection request.",
+      "link": "/messages",
+      "read": false,
+      "createdAt": "2026-03-09T14:31:12.870Z"
+    },
+    {
+      "id": "c97ed643-32da-4678-b9fb-f7fc2a3556a4",
+      "userId": "20df5cbc-31d3-457b-a0ef-8a004ea1d47f",
+      "type": "message",
+      "text": "Anirudh sent you a new message.",
+      "link": "/messages/83bfba7a-1baf-45ec-8357-c015e98bbe06",
+      "read": false,
+      "createdAt": "2026-03-09T14:32:56.250Z"
+    }
+  ]
+}
